@@ -20,10 +20,5 @@ The project includes an image preview, upload progress bar simulation, and file-
 
 🎨 Clean UI and fully responsive design
 
-Project Structure
-project-folder/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+
 
