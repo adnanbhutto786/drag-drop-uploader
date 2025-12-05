@@ -1,81 +1,29 @@
 📂 Drag & Drop Image Uploader
 
-A simple and clean Drag-and-Drop Image Uploader built with HTML, CSS, and JavaScript.
-Users can upload images by clicking or dragging files into the drop zone. Shows image preview, progress bar, and supports multiple images.
+A simple and modern Drag & Drop Image Uploader built using HTML, CSS, and JavaScript.
+Users can upload multiple images by clicking or dragging files into the upload area.
+The project includes an image preview, upload progress bar simulation, and file-type validation.
 
 🚀 Features
 
-🖱️ Click or Drag & Drop to upload
+🖱️ Click to Upload or Drag & Drop
 
-🖼️ Image Preview after upload
+🖼️ Live Image Preview
 
 📁 Multiple Image Upload Support
 
-📊 Progress Bar Simulation
+📊 Fake Progress Bar Animation
 
-❌ Invalid image format detection
+⚠️ Only Image Files Allowed (JPG, PNG, GIF)
 
-💾 Image preview saved in localStorage
+💾 Saves preview using Local Storage
 
-🎨 Clean & responsive UI
+🎨 Clean UI and fully responsive design
 
-📸 Demo Screenshot
+Project Structure
+project-folder/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
 
-Add your screenshot here
-
-![App Screenshot](./screenshot.png)
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla JS)
-
-📦 Project Structure
-📁 project-folder
- ├── index.html
- ├── style.css
- ├── script.js
- └── README.md
-
-📥 Installation & Setup
-1. Clone the repository
-git clone https://github.com/your-username/drag-drop-uploader.git
-
-2. Open project folder
-cd drag-drop-uploader
-
-3. Run the project
-
-Bas index.html browser me open karo.
-No server required.
-
-▶️ Usage
-
-App open karein
-
-Box par click karein (or drag an image)
-
-Upload progress dekhein
-
-Upload complete hone ke baad preview screen dekh sakte hain
-
-📌 Allowed File Types
-
-JPG
-
-JPEG
-
-PNG
-
-GIF
-
-Invalid file ho to error show hota hai.
-
-🔒 Local Storage Support
-
-Uploaded image preview localStorage me save ho jata hai taake page reload hone par bhi preview wapas show ho.
-
-⭐ Screenshots Sec
